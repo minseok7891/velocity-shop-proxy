@@ -1,0 +1,11 @@
+{
+    "id": "shopsystem",
+    "name": "VelocityShopSystem",
+    "version": "1.0.0",
+    "description": "Centralized shop management across all servers",
+    "authors": [
+        "minseok"
+    ],
+    "main": "me.minseok.shopsystem.velocity.VelocityShopSystem",
+    "dependencies": []
+}
